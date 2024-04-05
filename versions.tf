@@ -1,4 +1,4 @@
-terraformversion {
+terraform {
   required_versions = ">= 0.12.0"
 
   required_provider {
